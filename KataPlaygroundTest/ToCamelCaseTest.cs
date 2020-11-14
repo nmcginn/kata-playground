@@ -4,7 +4,7 @@ using NUnit.Framework;
 using kata_playground;
 
 [TestFixture]
-public class KataTest
+public class ToCamelCaseTest
 {
     [Test]
     public void KataTests()

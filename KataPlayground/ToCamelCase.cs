@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace kata_playground
 {
-    public class Kata
+    public partial class Kata
     {
         public static string ToCamelCase(string str)
         {
